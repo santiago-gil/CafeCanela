@@ -8,6 +8,7 @@
 import SwiftUI
 
 @main
+// not inheriting, but conforming to the App protocol
 struct CafeCanelaApp: App {
     var body: some Scene {
         WindowGroup {
